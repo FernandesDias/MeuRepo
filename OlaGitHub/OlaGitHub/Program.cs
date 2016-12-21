@@ -10,7 +10,7 @@ namespace OlaGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ola GitHub");
+            Console.WriteLine("Ola Não é Daqui");
             Console.ReadKey();
         }
     }
